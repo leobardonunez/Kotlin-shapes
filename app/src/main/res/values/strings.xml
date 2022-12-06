@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Droid</string>
+    <string name="get_started">Get started</string>
+    <string name="skip">Skip</string>
+</resources>
